@@ -285,7 +285,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C233LQUF2Z;
+				DEVELOPMENT_TEAM = TM943AP7Q5;
 				INFOPLIST_FILE = "Chapter 2 Dark Mode/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -303,7 +303,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C233LQUF2Z;
+				DEVELOPMENT_TEAM = TM943AP7Q5;
 				INFOPLIST_FILE = "Chapter 2 Dark Mode/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

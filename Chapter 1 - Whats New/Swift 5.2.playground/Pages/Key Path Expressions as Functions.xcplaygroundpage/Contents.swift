@@ -26,7 +26,6 @@ let onlyElectricCarsNewWay = cars.filter(\.isElectric)
 print(onlyElectricCars)
 print(onlyElectricCarsAgain)
 print(onlyElectricCarsNewWay)
-
 /*:
 
 
